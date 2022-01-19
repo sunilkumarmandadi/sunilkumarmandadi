@@ -6,7 +6,7 @@
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a>
 
-
+[![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunilkumarmandadi)](https://github.com/sunilkumarmandadi/github-readme-stats)
 
 
 <!---
