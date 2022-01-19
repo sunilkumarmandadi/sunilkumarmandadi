@@ -7,7 +7,7 @@
   </a>
 
 
-![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunilkumarmandadi&show_icons=true&theme=merko)
+![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunilkumarmandadi&show_icons=true)
 
 
 <!---
