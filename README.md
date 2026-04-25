@@ -2,7 +2,7 @@
 - 👋 I’m Sunilkumar Mandati
 - 🔭 I’m a .Net developer, currently working at GLS.
 - 👀 I like walking, playing with my kids, and learning new technologies.
-- 📫 Learn more about me at <a href="www.linkedin.com/in/sunil-kumar-mandati-6228a823" rel="nofollow noreferrer">
+- 📫 Learn more about me at <a href="www.linkedin.com/in/sunilkumar-mandati-6228a823" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a>
 
